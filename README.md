@@ -35,7 +35,6 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-#Volume of a Square pyramid:
 ~~~
 <!DOCTYPE html>
 <html lang="en">
@@ -100,6 +99,12 @@ Publish the website in the given URL.
           margin: 0px 0px 0px 0px;
           margin-top: 65px;
             }
+            .footer{
+            margin-left: 500px;
+            margin-top: 30px;
+
+        
+        }  
     </style>
 </head>
 <body>
@@ -150,9 +155,6 @@ Publish the website in the given URL.
         }
     });
 </script>
-~~~
-#volume of cone:
-~~~
      <div class="container2">
         <div class="content2">
             <h1>VOLUME OF A CONE</h1>
@@ -202,9 +204,6 @@ Publish the website in the given URL.
 
     });
 </script>
-~~~
-#Area of rhombus:
-~~~
 <div class="container3">
     <div class="content3"> 
         <h1>AREA OF A RHOMBUS</h1>
@@ -228,6 +227,8 @@ Publish the website in the given URL.
                 <input type="text" id="zedit" readonly value="0"/><label for="hedit"> Meter<sup>2</sup></label>
             </div>
         </form>
+        <div class="footer">S Adithya Chowdary.</div>
+
 </div>
 </div>
 <script type="text/javascript">
@@ -256,7 +257,8 @@ button.addEventListener("click",function(){
 </html>
 ~~~
 ## OUTPUT:
-![OUTPUT](./IMAGES/img1.png)
-![OUTPUT](./IMAGES/img2.png)
+![OUTPUT](./IMAGES/img11.png)
+![OUTPUT](./IMAGES/img12.png)
+![OUTPUT](./IMAGES/img13.png)
 ## Result:
 Thus a website is designed to perform mathematical calculations in the client side.
